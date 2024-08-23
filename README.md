@@ -1,4 +1,5 @@
 # Infinity
-1. Install Construct 2 Setup (.exe)
-2. Download file Infinity.capx
-3. Open file Infinity.capx with Construct 2 and now you can play the game
+Game Link : https://8infinity.netlify.app
+
+*Note
+    Make sure open this link with windows (Only Support Windows)
