@@ -1,8 +1,5 @@
 # Infinity
-1. Open link below on a web browser
-
-   Game Link : https://8infinity.netlify.app
-
-2. Enjoy the game
+1. Go to this link : https://8infinity.netlify.app
+2. Now you can play the game, GLHF...
 
 *Note : Only Support Windows
